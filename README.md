@@ -1,5 +1,5 @@
 # ChileGMM
-Coefficients of Chile GMMs
+
 
 cc_face.csv and cc_slab.csv are correlation coefficients for interface and intraslab earthquakes derived from the Chile GMM
 
